@@ -18,5 +18,4 @@
 
   **plan de estudio Nro 14.**
   
-  ![]
-   (https://www.escuelaing.edu.co/escuela/planesEstudio/img/sistemas/planANTESde2018-2.pdf.png)  
+  ![alt text] (https://www.escuelaing.edu.co/escuela/planesEstudio/img/sistemas/planANTESde2018-2.pdf.png)  
