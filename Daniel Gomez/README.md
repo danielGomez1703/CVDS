@@ -2,10 +2,10 @@
 
 ## Infomarcion personal
 
-  ** carrera **
-   *ING.SISTEMAS *
-  **  edad **
-    * 21 **
+  **carrera**
+   *ING.SISTEMAS*
+  **edad**
+    *21**
 
   materias que cursadas
   
@@ -16,10 +16,9 @@
   
 ## Plan De Estudio
 
-  ** plan de estudio Nro 14.
+  **plan de estudio Nro 14.**
   
   ![][1]
   [1]:
-  https://github.com/danielGomez1703/CNYT/blob/master/sistemas.png
-  
+https://www.google.com/search?q=pensum+sistemas+eci&rlz=1C1SQJL_enCO884CO884&tbm=isch&source=iu&ictx=1&fir=CabyrqBpPyVlRM%253A%252CBeri1siieg1UkM%252C_&vet=1&usg=AI4_-kQ2SS5JglyTSy6yEiR4zb42uOqKpQ&sa=X&ved=2ahUKEwioxbHypY3nAhXOs1kKHbVSAeEQ9QEwBXoECAEQBQ#imgrc=CabyrqBpPyVlRM:  
   
