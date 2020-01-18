@@ -31,3 +31,12 @@
 ## DESCRIPCION
   repositorio para laboratorios de ciclos de vida del desarrollo de software CVDS. este espacio contara con los laboratorios semanales de acuerdo al cronograma.
   **GIT** [Daniel Gomez](https://github.com/danielGomez1703/CVDS)
+  
+## ejemplo  de ciclo en java  FOR
+
+```
+for(initialization; condition ; increment/decrement)
+{
+   statement(s);
+}
+```
