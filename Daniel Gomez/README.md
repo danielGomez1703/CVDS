@@ -2,10 +2,10 @@
 
 ## Infomarcion personal
 
-  **carrera**
-   *ING.SISTEMAS*
-  **edad**
-    *21**
+  **carrera** \
+   *ING.SISTEMAS* \
+  **edad** \
+    *21** \
 
   materias que cursadas
   
@@ -19,5 +19,5 @@
   **plan de estudio Nro 14.**
   
   ![]
-  (https://www.escuelaing.edu.co/escuela/planesEstudio/img/sistemas/planANTESde2018-2.pdf.png)
+  (https://es.wikipedia.org/wiki/Escuela_Colombiana_de_Ingenier%C3%ADa#/media/Archivo:Ejg_Bogot%C3%A1_nov_2019.jpg)
   
