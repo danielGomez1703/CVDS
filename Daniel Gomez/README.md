@@ -2,10 +2,10 @@
 
 ## Infomarcion personal
 
-  ** carrera \
-   *ING.SISTEMAS \
-  **  edad \
-    * 21 \
+  ** carrera **
+   *ING.SISTEMAS *
+  **  edad **
+    * 21 **
 
   materias que cursadas
   
@@ -18,7 +18,8 @@
 
   ** plan de estudio Nro 14.
   
-  ![]
-  (https://github.com/danielGomez1703/CNYT/blob/master/sistemas.png)
+  ![][1]
+  [1]:
+  https://github.com/danielGomez1703/CNYT/blob/master/sistemas.png
   
   
