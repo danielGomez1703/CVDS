@@ -5,14 +5,15 @@
   **carrera** \
    *ING.SISTEMAS* \
   **edad** \
-    *21** \
+    *21*
 
-  materias que cursadas
+  materias cursadas
   
  > 1. poob
  > 2. mbda
  > 3. mdis
- > 4. calculo
+ > 4. calculos
+ > 5. fisicas
   
 ## Plan De Estudio
 
