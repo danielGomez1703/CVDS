@@ -5,7 +5,7 @@
   **carrera** \
    *ING.SISTEMAS* \
   **edad** \
-    *21** \
+    *21*
 
   materias que cursadas
   
