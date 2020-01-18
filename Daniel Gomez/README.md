@@ -19,5 +19,4 @@
   **plan de estudio Nro 14.**
   
   ![]
-  (https://es.wikipedia.org/wiki/Escuela_Colombiana_de_Ingenier%C3%ADa#/media/Archivo:Ejg_Bogot%C3%A1_nov_2019.jpg)
-  
+   (https://www.escuelaing.edu.co/escuela/planesEstudio/img/sistemas/planANTESde2018-2.pdf.png)  
