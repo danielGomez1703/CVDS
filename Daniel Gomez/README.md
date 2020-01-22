@@ -25,7 +25,7 @@
 
   **plan de estudio Nro 14.**
   
-  ![alt text](https://https://github.com/danielGomez1703/CVDS/blob/master/AndresGonzalez/plan.png) 
+  ![alt text](https://github.com/danielGomez1703/CVDS/blob/master/AndresGonzalez/plan.png) 
   
   
 ## DESCRIPCION
